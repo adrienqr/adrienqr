@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on computational social sciences and data sciences projects, using Python, R and NetLogo
+
 <!--
 **adrienqr/adrienqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
